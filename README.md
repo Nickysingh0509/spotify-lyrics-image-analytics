@@ -170,3 +170,11 @@ This project demonstrates an end-to-end pipeline integrating:
 - Comparative artist-level analysis
 
 It showcases multi-modal analytics combining text and image intelligence within a unified framework.
+
+---
+
+## **👩‍💻 Author**
+
+**Nicky Kumari**
+
+Business Analytics | NLP Analytics | Sentiment Analysis | Image Analytics | API Integration
