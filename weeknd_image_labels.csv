@@ -1,0 +1,16 @@
+Index,filenames,labels,confidencescores,AlbumTitle,ArtistName
+0,ab67616d0000b273982320da137d0de34410df61,"['Head', 'Person', 'Face']","[99.96137237548828, 99.96137237548828, 99.92957305908203]",Hurry Up Tomorrow,The Weeknd
+1,ab67616d0000b2738ad8f5243d6534e03b656c8b,"['Adult', 'Male', 'Man']","[99.50070190429688, 99.50070190429688, 99.50070190429688]",Starboy (Deluxe),The Weeknd
+2,ab67616d0000b273308f9319a3d6f6737f43b3fc,"['Person', 'Alien']","[97.23462677001953, 95.07998657226562]",Live At SoFi Stadium,The Weeknd
+3,ab67616d0000b273ade87e5f9c3764f0a1e5df64,"['Face', 'Head', 'Person']","[100.0, 100.0, 100.0]",Dawn FM (Alternate World),The Weeknd
+4,ab67616d0000b2734ab2520c2c77a1d66b9ee21d,"['Face', 'Head', 'Person']","[100.0, 100.0, 100.0]",Dawn FM,The Weeknd
+5,ab67616d0000b273ef017e899c0547766997d874,"['Head', 'Person', 'Face']","[99.99581909179688, 99.99581909179688, 99.99176025390625]",After Hours (Deluxe),The Weeknd
+6,ab67616d0000b2738863bc11d2aa12b54f5aeb36,"['Head', 'Person', 'Face']","[99.99913024902344, 99.99913024902344, 99.99858093261719]",After Hours,The Weeknd
+7,ab67616d0000b2731f6a2a40bb692936879db730,"['Face', 'Head', 'Person']","[99.99945068359375, 99.99945068359375, 99.99945068359375]","My Dear Melancholy,",The Weeknd
+8,ab67616d0000b2734718e2b124f79258be7bc452,"['Adult', 'Male', 'Man']","[99.3630142211914, 99.3630142211914, 99.3630142211914]",Starboy,The Weeknd
+9,ab67616d0000b2737fcead687e99583072cc217b,"['Face', 'Head', 'Person']","[100.0, 100.0, 100.0]",Beauty Behind The Madness,The Weeknd
+10,ab67616d0000b2730cc6c8a864d2d16a2bc507d4,"['Face', 'Head', 'Person']","[99.99584197998047, 99.99584197998047, 99.99584197998047]",Kiss Land,The Weeknd
+11,ab67616d0000b273158c84a1b6f8b935dc7fa9a9,"['Face', 'Head', 'Person']","[99.97051239013672, 99.97051239013672, 99.97051239013672]",Trilogy,The Weeknd
+12,ab67616d0000b27336fb79728dbb379579cef97e,"['Adult', 'Female', 'Person']","[98.86888885498047, 98.86888885498047, 98.86888885498047]",Echoes Of Silence (Original),The Weeknd
+13,ab67616d0000b273e01c2631218e2de27765b7d5,"['Adult', 'Female', 'Person']","[99.64984893798828, 99.64984893798828, 99.64984893798828]",Thursday (Original),The Weeknd
+14,ab67616d0000b273274b406a7e18acebcf743079,"['Text', 'Person', 'Newspaper']","[94.71310424804688, 94.59391021728516, 90.50176239013672]",House Of Balloons (Original),The Weeknd

@@ -1,0 +1,19 @@
+Index,filenames,labels,confidencescores,AlbumTitle,ArtistName
+0,ab67616d0000b273b5a28a256eae6dc0424fef59,"['City', 'Outdoors', 'Nature']","[99.1132583618164, 97.41043090820312, 97.31398010253906]",$ome $exy $ongs 4 U,PARTYNEXTDOOR
+1,ab67616d0000b273e286ee36b4015afa8832356a,"['Person', 'Toy', 'Dancing']","[94.76876831054688, 92.19280242919922, 90.64785766601562]",For All The Dogs Scary Hours Edition,Drake
+2,ab67616d0000b2737d384516b23347e92a587ed1,"['Animal', 'Bird']","[93.21089172363281, 93.21089172363281]",For All The Dogs,Drake
+3,ab67616d0000b27302854a7060fccc1a66a4b5ad,"['Head', 'Person', 'Face']","[99.9205322265625, 99.9205322265625, 99.90519714355469]",Her Loss,Drake
+4,ab67616d0000b2738dc0d801766a5aa6a33cbe37,['Ct Scan'],[90.64096069335938],"Honestly, Nevermind",Drake
+5,ab67616d0000b273cd945b4e3de57edd28481a3f,"['Figurine', 'Doll', 'Toy']","[99.93749237060547, 98.3879623413086, 98.3879623413086]",Certified Lover Boy,Drake
+6,ab67616d0000b273bba7cfaf7c59ff0898acba1f,"['Face', 'Head', 'Person']","[95.83704376220703, 95.83704376220703, 95.83704376220703]",Dark Lane Demo Tapes,Drake
+7,ab67616d0000b2739c1e02d4becb7c5bbca01e2a,['Logo'],[99.96110534667969],Care Package,Drake
+8,ab67616d0000b273f907de96b9a4fbc04accc0d5,"['Face', 'Head', 'Person']","[99.99998474121094, 99.99998474121094, 99.99998474121094]",Scorpion,Drake
+9,ab67616d0000b2734f0fd9dad63977146e685700,"['Face', 'Head', 'Person']","[99.99900817871094, 99.99900817871094, 99.99900817871094]",More Life,Drake
+10,ab67616d0000b2739416ed64daf84936d89e671c,"['Architecture', 'Building', 'Tower']","[97.92594909667969, 97.92594909667969, 97.92594909667969]",Views,Drake
+11,ab67616d0000b273d6adfbd3f091d6f2b9af6507,"['Accessories', 'Diamond', 'Gemstone']","[100.0, 100.0, 100.0]",What A Time To Be Alive,Drake
+12,ab67616d0000b2732090f4f6cc406e6d3c306733,"['Text', 'Alphabet']","[99.90487670898438, 92.53559875488281]",If You're Reading This It's Too Late,Drake
+13,ab67616d0000b273a4dfa7122ec07fe3a1af22e7,"['Head', 'Person', 'Face']","[99.99372100830078, 99.99372100830078, 99.98747253417969]",Nothing Was The Same (Deluxe),Drake
+14,ab67616d0000b273a90d170c61fb7d063d47161d,"['Face', 'Head', 'Person']","[99.98072052001953, 99.98072052001953, 99.98072052001953]",Nothing Was The Same,Drake
+15,ab67616d0000b273c7ea04a9b455e3f68ef82550,"['Adult', 'Male', 'Man']","[98.97117614746094, 98.97117614746094, 98.97117614746094]",Take Care (Deluxe),Drake
+16,ab67616d0000b27311b21e8b868800918d21bb77,"['Advertisement', 'Poster', 'Adult']","[99.88298797607422, 99.87008666992188, 99.3526840209961]",Thank Me Later,Drake
+17,ab67616d0000b27354ef13c30a024a7f1ba79efd,"['Stencil', 'Person', 'Art']","[99.67282104492188, 92.07122039794922, 91.97608184814453]",So Far Gone,Drake
